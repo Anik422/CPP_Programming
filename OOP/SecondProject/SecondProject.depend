@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1642604511 source:f:\c++ programming\oop\secondproject\main.cpp
+	<iostream>
+	"mynewclass.h"
+
+1642604506 f:\c++ programming\oop\secondproject\include\mynewclass.h
+
